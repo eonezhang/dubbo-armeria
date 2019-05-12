@@ -1,0 +1,5 @@
+server:
+  port: 8089
+management:
+  server:
+    port: 7010
